@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  tossClone
+//  TossClone
 //
-//  Created by leejunmo on 2022/07/03.
+//  Created by leejunmo on 2022/07/04.
 //
 
 import UIKit
